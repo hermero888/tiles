@@ -10,11 +10,11 @@ body {
   justify-content: center;
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 .uk-navbar-nav {
   justify-content: center;
-  font-family: "Poppins", sans-serif;
+  font-family: "Catamaran", sans-serif;
   gap: 15px;
   margin-bottom: 15px;
 }
@@ -97,9 +97,9 @@ body {
 button {
   border: 0;
   height: 100%;
-  padding: 5em 15em;
+  padding: 5px 1%;
   background: #72b0e9;
-  font-size: 20px;
+  font-size: .8em;
   color: #fff;
   position: relative;
   right: -100px;
